@@ -1,5 +1,5 @@
 const foods = [
-  {name:"Chicken Dum Biryani",price:250,type:"Non-Veg",category:"Biryani",image:"https://images.unsplash.com/photo-1563379091339-03246963d96c",desc:"Authentic aromatic chicken biryani"},
+  {name:"Chicken Dum Biryani",price:250,type:"Non-Veg",category:"Biryani",https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Dum_Biryani.jpg⁠",desc:"Authentic aromatic chicken biryani"},
   {name:"Mutton Biryani",price:320,type:"Non-Veg",category:"Biryani",image:"https://images.unsplash.com/photo-1633945274405-b6c8069047b0",desc:"Rich and delicious mutton biryani"},
   {name:"Veg Biryani",price:180,type:"Veg",category:"Biryani",image:"https://images.unsplash.com/photo-1589302168068-964664d93dc0",desc:"Fresh vegetables and fragrant rice"},
   {name:"Paneer Biryani",price:210,type:"Veg",category:"Biryani",image:"https://images.unsplash.com/photo-1596797038530-2c107229654b",desc:"Special paneer and basmati rice"},
